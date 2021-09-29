@@ -12,9 +12,13 @@ Task: a Badger Lite app that has the option to deposit directly into 2 options, 
 
 ![Screenshot from 2021-09-29 04-27-46](https://user-images.githubusercontent.com/67913214/135187557-121958d7-76e0-4ebc-b94d-91f34d96b8c8.png)
 
-## Deposit Homepage
+## Deposit Homepage 1/2
 
 ![Screenshot from 2021-09-29 04-27-52](https://user-images.githubusercontent.com/67913214/135187559-b2da3be6-48d7-4e92-b0b3-03530b53436a.png)
+
+## Deposit Homepage 2/2
+
+![Screenshot from 2021-09-29 04-35-40](https://user-images.githubusercontent.com/67913214/135188200-ae179af3-d87b-4bb3-9f64-05acedec2125.png)
 
 ## Deposit
 
